@@ -1,6 +1,6 @@
 # Título do projeto
 
-My Finance Web é uma aplicação que visa oferecer ao seu usuário a posibilidade de análise, acompanhamento e planejamento financeiro, através do controle de suas receitas e despesas. 
+My Finance Web é uma aplicação que visa oferecer ao seu usuário a posibilidade de análise, acompanhamento e planejamento financeiro, através do controle de suas receitas e despesas. Foi desenvolvido para plataformas web com design responsivo para renderização em aplicações mobile, como smartphones e tablets.
 
 ## 🚀 Começando
 
@@ -54,9 +54,10 @@ Explique que eles verificam esses testes e porquê.
 Dar exemplos
 ```
 
-## 📦 Implantação
+## 📦 Diagrama arquitetural
 
-Adicione notas adicionais sobre como implantar isso em um sistema ativo
+![image](https://github.com/tiagoRCS/myFinanceWeb/assets/148597848/f06b2fb3-00bd-4014-97ef-77237c82e404)
+
 
 ## 🛠️ Tecnologias utilizadas
 
