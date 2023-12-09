@@ -44,6 +44,6 @@ Versão atual do projeto: 1.0
 
 O presente projeto foi desenvolvido pelos seguintes colaboradores:
 
-* **Wellington Goulart** - *Desenvolvimento* - [Wellington Goulart](https://github.com/linkParaPerfil)
-* **Isabela Moreira** - *Documentação* - [Isabela Moreira de Andrade](https://github.com/IsabeleMoreira)
+* **Wellington Cordeiro Goulart** - *Desenvolvimento* - [Wellington Goulart](https://github.com/wellingtongoulart)
+* **Isabela Moreira de Andrade** - *Documentação* - [Isabela Moreira de Andrade](https://github.com/IsabeleMoreira)
 * **Tiago Rodrigues Cordeiro da Silva** - *Documentação* - [Tiago Rodrigues](https://github.com/tiagoRCS/)
