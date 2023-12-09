@@ -1,57 +1,26 @@
-# Título do projeto
+## 🔎 Descrição do projeto
 
-My Finance Web é uma aplicação que visa oferecer ao seu usuário a posibilidade de análise, acompanhamento e planejamento financeiro, através do controle de suas receitas e despesas. Foi desenvolvido para plataformas web com design responsivo para renderização em aplicações mobile, como smartphones e tablets.
+O My Finance Web é uma aplicação que visa oferecer ao seu usuário a posibilidade de análise, acompanhamento e planejamento financeiro, através do controle de suas receitas e despesas. Foi desenvolvido para plataformas web com design responsivo para renderização em aplicações mobile, como smartphones e tablets.
 
 ## 🚀 Começando
 
-Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+As instruções descritas abaixo lhe permitirão obter uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
-Consulte **[Implantação](#-implanta%C3%A7%C3%A3o)** para saber como implantar o projeto.
 
 ### 📋 Pré-requisitos
 
-De que coisas você precisa para instalar o software e como instalá-lo?
-
-```
-Dar exemplos
-```
+Para operação do projeto em sua máquina é necessário ter instalado no computador o  Visual Studio Code ou alguma IDE análoga que lhe permita efetuar os comandos. Também é necessário ter em seu computador algum gerenciador de banco de dados SQL, como por exemplo, o SQL Management Studio (SSMS) ou dbeaver.
 
 ### 🔧 Instalação
 
-Uma série de exemplos passo-a-passo que informam o que você deve executar para ter um ambiente de desenvolvimento em execução.
-
-Diga como essa etapa será:
+As etapas para operação do projeto são descritas abaixo:
 
 ```
-Dar exemplos
-```
-
-E repita:
-
-```
-Até finalizar
-```
-
-Termine com um exemplo de como obter dados do sistema ou como usá-los para uma pequena demonstração.
-
-## ⚙️ Executando os testes
-
-Explicar como executar os testes automatizados para este sistema.
-
-### 🔩 Analise os testes de ponta a ponta
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
-```
-
-### ⌨️ E testes de estilo de codificação
-
-Explique que eles verificam esses testes e porquê.
-
-```
-Dar exemplos
+1 - Abrir o projeto myfinance-web-dotnet em sua IDE
+2 - Abrir o terminal da IDE
+3 - Executar o comando dotnet build para compilação do projeto
+4 - Executar o comando dotnet run ou dotnet watch run para execução do projeto
+5 - Acessar a pasta Scripts para criação do banco de dados e executá-los em seu gerenciador de banco de dados. O primeiro script a ser executado é o myfinanceweb_DB.sql
 ```
 
 ## 📦 Diagrama arquitetural
@@ -62,23 +31,19 @@ Dar exemplos
 ## 🛠️ Tecnologias utilizadas
 
 * [Visual Studio Code](https://code.visualstudio.com/download): Ambiente de desenvolvimento (IDE)
-* [.NET Core SDK](https://dotnet.microsoft.com/en-us/download): Linguagem de implementação
+* [.NET Core SDK 7.0.402](https://dotnet.microsoft.com/en-us/download): Linguagem de implementação (Obs.: Foi utilizada a extensão do C#, instalada internamente no VS Code)
+* [Microsoft ASPNetCore Identity Entity Framework Core 7.0.13](https://www.nuget.org/packages/Microsoft.AspNetCore.Identity.EntityFrameworkCore): Framework
 * [SQL Server 2019 Express Edition](https://www.microsoft.com/pt-br/sql-server/sql-server-downloads): Banco de Dados
 
 
 ## 📌 Versão
 
-Nós usamos [SemVer](http://semver.org/) para controle de versão. Para as versões disponíveis, observe as [tags neste repositório](https://github.com/suas/tags/do/projeto). 
+Versão atual do projeto: 1.0 
 
 ## ✒️ Autores
 
 O presente projeto foi desenvolvido pelos seguintes colaboradores:
 
-* **Wellington Goulart** - *Desenvolvimento* - [Wllington Goulart](https://github.com/linkParaPerfil)
-* **Isabela Moreira** - *Documentação* - [Isabela Moreira](https://github.com/linkParaPerfil)
+* **Wellington Goulart** - *Desenvolvimento* - [Wellington Goulart](https://github.com/linkParaPerfil)
+* **Isabela Moreira** - *Documentação* - [Isabela Moreira de Andrade](https://github.com/IsabeleMoreira)
 * **Tiago Rodrigues Cordeiro da Silva** - *Documentação* - [Tiago Rodrigues](https://github.com/tiagoRCS/)
-
-
-## 📄 Licença
-
-Este projeto está sob a licença (sua licença) - veja o arquivo [LICENSE.md](https://github.com/usuario/projeto/licenca) para detalhes.
